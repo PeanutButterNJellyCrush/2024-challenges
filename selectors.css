@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+span{
+    background-color: none;
+}
+body p:nth-last-of-type(1){
+    padding-top: 20%;
+}
+
+nav :nth-child(2n){
+    background-color: grey;
+}
