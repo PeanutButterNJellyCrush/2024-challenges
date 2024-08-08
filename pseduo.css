@@ -1,0 +1,12 @@
+li:first-child{
+    font-size: 10px;
+    color: red;
+}
+li:last-child{
+    background-color: red;
+    color: white;
+}
+li:only-child{
+    background-color: blue;
+    color: white;
+}
